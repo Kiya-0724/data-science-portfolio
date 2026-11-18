@@ -22,7 +22,7 @@ I inspected two official DSEC tourism datasets, filtered and merged monthly reco
 ![Arrivals‑occupancy correlation scatter plot](images/arrivals_vs_occupancy.png)
 
 ### Findings
-There is a strong statistically significant positive association between monthly visitor arrivals and hotel room occupancy (Pearson r = 0.823, p < 0.001). Higher‑arrival months generally correspond to higher occupancy. Both indicators reached their peak value in August 2025, although they do not move in the same direction for every single month.
+There is a strong statistically significant positive association between monthly visitor arrivals and hotel room occupancy (Pearson r = 0.823, p < 0.001). Higher‑arrival months generally correspond to higher occupancy. Both indicators reached their peak value in August 2025, although they do not move in the same direction for every single month.The r‑value of 0.823 indicates strong positive linear correlation between the two tourism metrics.
 
 ### Limitation
 These results describe correlation rather than causation. The analysis does not control for confounding factors such as seasonality, special local events and same‑day visitor proportion, and monthly time‑series observations may be autocorrelated.
